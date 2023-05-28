@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/UserTestDataCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/ProductTestDataCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/CategoryTestDataCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/FilterTestDataCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/local/CategoryTestDataCostcoLocal.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/local/ProductTestDataCostcoLocal.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/local/UserTestDataCostcoLocal.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/local/FilterTestDataCostcoLocal.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/localdev/UserTestDataCostcoLocalDev.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/localdevint/UserTestDataCostcoLocalDevInt.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/testdata/TestDataCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/StepsCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/teststeps/DesktopModuleCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/teststeps/TabletModuleCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/teststeps/MobileModuleCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/ConfigLoaderCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/testdata/LocalDevIntTestDataModuleCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/testdata/LocalTestDataModuleCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/testdata/LocalDevTestDataModuleCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/config/ConfigHolderCostco.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/steps/CartPageSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/steps/HeaderComponentSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/steps/HomePageSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/steps/ProductLandingPageSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/steps/LoginPageSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/steps/ProductDetailsPageSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/tablet/HomePageTablet.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/tablet/LoginPageTablet.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/HomePage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/ProductLandingPage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/ProductDetailsPage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/desktop/ProductLandingPageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/desktop/CartPageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/desktop/LoginPageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/desktop/HomePageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/desktop/ProductDetailsPageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/desktop/HeaderComponentDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/CartPage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/mobile/LoginPageMobile.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/mobile/HomePageMobile.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/HeaderComponent.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/site/pages/LoginPage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/testdata/TestDataVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/testdata/UsersTestDataVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/testdata/pool/UsersTestDataPoolLocalVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/config/teststeps/DesktopModuleVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/config/teststeps/MobileModuleVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/config/testdata/RemoteTestDataModuleVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/config/testdata/TestDataVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/config/testdata/LocalTestDataModuleVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/config/ConfigHolderVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/config/ConfigLoaderVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/StepsVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/component/TableComponent.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/AbstractViktaSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/po/RegistrationPage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/po/HomePage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/po/TablesPage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/po/LoginPageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/po/LoginPage.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/po/HomePageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/po/RegistrationPageDesktop.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/steps/TablesPageSteps.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/steps/RegistrationStepsVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/steps/LoginPageStepsVikta.java">
+</file>
+<file name="/Users/runner/work/1/s/examples/src/main/java/com/e2e/tests/vikta/steps/HomePageStepsVikta.java">
+</file>
+</checkstyle>
