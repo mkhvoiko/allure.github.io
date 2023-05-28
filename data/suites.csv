@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 28 20:35:21 UTC 2023","Sun May 28 20:35:40 UTC 2023","19424","Generic test suite","Tests specified by packages","com.e2e.tests.site.DemoCostcoTest","com.e2e.tests.site.DemoCostcoTest","testLoginWithAdminUser","Verify Log In functionality on the Main page","Verify Log In functionality on the Main page"
